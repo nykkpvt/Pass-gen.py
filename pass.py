@@ -26,3 +26,5 @@ def generate_random_password():
 
 ## invoking the function
 generate_random_password()
+
+## created by Nikk
