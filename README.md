@@ -1,2 +1,2 @@
 # Pass-gen.py
-Password Generator created with Python
+Password Generator created with Python by Nik
